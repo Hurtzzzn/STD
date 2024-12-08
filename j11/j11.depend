@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1732893204 source:d:\kuliahgena\smt 3\struktur data\tugas\j11\source.cpp
+	"header.h"
+
+1732891104 d:\kuliahgena\smt 3\struktur data\tugas\j11\header.h
+	<iostream>
+
+1732894147 source:d:\kuliahgena\smt 3\struktur data\tugas\j11\main.cpp
+	"header.h"
+

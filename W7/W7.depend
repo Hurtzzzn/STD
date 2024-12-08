@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1730215268 source:d:\kuliahgena\smt 3\struktur data\tugas\w7\main.cpp
+	"stackk.h"
+
+1730189409 d:\kuliahgena\smt 3\struktur data\tugas\w7\stack.h
+	<iostream>
+
+1730193521 source:d:\kuliahgena\smt 3\struktur data\tugas\w7\stack.cpp
+	"stack.h"
+
+1730215337 source:d:\kuliahgena\smt 3\struktur data\tugas\w7\stackk.cpp
+	"stackk.h"
+
+1730215259 d:\kuliahgena\smt 3\struktur data\tugas\w7\stackk.h
+	<iostream>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1728232523 source:d:\kuliahgena\smt 3\struktur data\tugas\tp4\main.cpp
+	<iostream>
+	"list.h"
+
+1728231642 source:d:\kuliahgena\smt 3\struktur data\tugas\tp4\list.cpp
+	<iostream>
+	"list.h"
+
+1728230818 d:\kuliahgena\smt 3\struktur data\tugas\tp4\list.h
+	<iostream>
+

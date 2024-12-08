@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1729153182 source:d:\kuliahgena\smt 3\struktur data\tugas\tugas5\main.cpp
+	"stack.h"
+
+1729151439 d:\kuliahgena\smt 3\struktur data\tugas\tugas5\stack.h
+	<iostream>
+
+1729151713 source:d:\kuliahgena\smt 3\struktur data\tugas\tugas5\stack.cpp
+	"stack.h"
+
+1729155739 source:d:\kuliahgena\smt 3\struktur data\tugas\tugas5\stack1.cpp
+	"stack.h"
+

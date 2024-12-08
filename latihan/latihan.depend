@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1729942925 source:d:\kuliahgena\smt 3\struktur data\tugas\latihan\1.cpp
+	"1.h"
+
+1729943412 d:\kuliahgena\smt 3\struktur data\tugas\latihan\1.h
+	<iostream>
+
+1729944932 source:d:\kuliahgena\smt 3\struktur data\tugas\latihan\main.cpp
+	"11.h"
+
+1729945818 source:d:\kuliahgena\smt 3\struktur data\tugas\latihan\11.cpp
+	"11.h"
+
+1729944818 d:\kuliahgena\smt 3\struktur data\tugas\latihan\11.h
+	<iostream>
+

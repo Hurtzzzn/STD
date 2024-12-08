@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1731832915 source:d:\kuliahgena\smt 3\struktur data\tugas\tp_mod_10_103032330095_gena darma\flight.cpp
+	"flight.h"
+
+1731833166 d:\kuliahgena\smt 3\struktur data\tugas\tp_mod_10_103032330095_gena darma\flight.h
+	<iostream>
+
+1731832944 source:d:\kuliahgena\smt 3\struktur data\tugas\tp_mod_10_103032330095_gena darma\main.cpp
+	"flight.h"
+

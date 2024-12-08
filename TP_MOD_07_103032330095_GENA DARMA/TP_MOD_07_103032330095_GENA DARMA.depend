@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1729875865 source:d:\kuliahgena\smt 3\struktur data\tugas\tp_mod_07_103032330095_gena darma\main.cpp
+	"stack.h"
+
+1729875268 d:\kuliahgena\smt 3\struktur data\tugas\tp_mod_07_103032330095_gena darma\stack.h
+	<iostream>
+
+1729875564 source:d:\kuliahgena\smt 3\struktur data\tugas\tp_mod_07_103032330095_gena darma\stack.cpp
+	"stack.h"
+

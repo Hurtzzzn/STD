@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1730092586 source:d:\kuliahgena\smt 3\struktur data\tugas\latdlluts\3.cpp
+	"3.h"
+
+1729950740 d:\kuliahgena\smt 3\struktur data\tugas\latdlluts\3.h
+	<iostream>
+
+1729952328 source:d:\kuliahgena\smt 3\struktur data\tugas\latdlluts\main.cpp
+	"3.h"
+

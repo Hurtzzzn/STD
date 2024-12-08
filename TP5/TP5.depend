@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1728798536 source:d:\kuliahgena\smt 3\struktur data\tugas\tp5\main.cpp
+	"tp5.h"
+
+1728796769 d:\kuliahgena\smt 3\struktur data\tugas\tp5\tp5.h
+	<iostream>
+
+1728798326 source:d:\kuliahgena\smt 3\struktur data\tugas\tp5\tp5.cpp
+	"tp5.h"
+

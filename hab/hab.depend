@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1731835358 source:d:\kuliahgena\smt 3\struktur data\tugas\hab\flight.cpp
+	"flight.h"
+
+1731835375 d:\kuliahgena\smt 3\struktur data\tugas\hab\flight.h
+	<iostream>
+
+1731835388 source:d:\kuliahgena\smt 3\struktur data\tugas\hab\main.cpp
+	"flight.h"
+

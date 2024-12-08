@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1731433672 source:d:\kuliahgena\smt 3\struktur data\tugas\asesmen1\sll.cpp
+	"sll.h"
+
+1731433270 d:\kuliahgena\smt 3\struktur data\tugas\asesmen1\sll.h
+	<iostream>
+
+1731432363 source:d:\kuliahgena\smt 3\struktur data\tugas\asesmen1\main.cpp
+	"sll.h"
+

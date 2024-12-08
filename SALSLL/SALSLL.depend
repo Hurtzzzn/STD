@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1731434955 source:d:\kuliahgena\smt 3\struktur data\tugas\salsll\main.cpp
+	"sll.h"
+
+1731434846 d:\kuliahgena\smt 3\struktur data\tugas\salsll\sll.h
+	<iostream>
+
+1731434968 source:d:\kuliahgena\smt 3\struktur data\tugas\salsll\sll.cpp
+	"sll.h"
+

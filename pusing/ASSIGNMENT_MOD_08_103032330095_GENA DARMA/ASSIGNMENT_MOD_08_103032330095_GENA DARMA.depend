@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1731059248 source:d:\kuliahgena\smt 3\struktur data\tugas\assignment_mod_08_103032330095_gena darma\queue.cpp
+	"Queue.h"
+
+1731059121 source:d:\kuliahgena\smt 3\struktur data\tugas\assignment_mod_08_103032330095_gena darma\main.cpp
+	"Queue.h"
+
+1730990511 d:\kuliahgena\smt 3\struktur data\tugas\assignment_mod_08_103032330095_gena darma\queue.h
+	<iostream>
+

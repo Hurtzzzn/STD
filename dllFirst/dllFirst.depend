@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1730002426 source:d:\kuliahgena\smt 3\struktur data\tugas\dllfirst\1.cpp
+	"1.h"
+
+1730002352 d:\kuliahgena\smt 3\struktur data\tugas\dllfirst\1.h
+	<iostream>
+
+1730001262 source:d:\kuliahgena\smt 3\struktur data\tugas\dllfirst\main.cpp
+	"1.h"
+

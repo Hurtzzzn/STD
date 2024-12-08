@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1730380330 source:d:\kuliahgena\smt 3\struktur data\tugas\t7\main.cpp
+	"queue.h"
+
+1730380441 d:\kuliahgena\smt 3\struktur data\tugas\t7\queue.h
+	<iostream>
+
+1730380219 source:d:\kuliahgena\smt 3\struktur data\tugas\t7\queue.cpp
+	"queue.h"
+

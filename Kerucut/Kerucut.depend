@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1727605616 source:d:\kuliahgena\smt 3\struktur data\tugas\kerucut\main.cpp
+	"kerucut.h"
+
+1727605618 d:\kuliahgena\smt 3\struktur data\tugas\kerucut\kerucut.h
+	<iostream>
+	<cmath>
+
+1727605780 source:d:\kuliahgena\smt 3\struktur data\tugas\kerucut\kerucut.cpp
+	"kerucut.h"
+
