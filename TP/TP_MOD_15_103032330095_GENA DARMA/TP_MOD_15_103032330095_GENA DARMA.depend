@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1734862844 source:d:\kuliahgena\smt 3\struktur data\tugas\tp\tp_mod_15_103032330095_gena darma\main.cpp
+	"Tree.h"
+
+1734861431 d:\kuliahgena\smt 3\struktur data\tugas\tp\tp_mod_15_103032330095_gena darma\tree.h
+	<iostream>
+
+1734862667 source:d:\kuliahgena\smt 3\struktur data\tugas\tp\tp_mod_15_103032330095_gena darma\tree.cpp
+	"Tree.h"
+
